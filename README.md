@@ -40,7 +40,7 @@ A responsive portfolio website built with React, TypeScript, and Tailwind CSS to
 ---
 
 **View my complete portfolio:**
-https://github.com/katlegoxoxo/Portfolio
+[https://github.com/katlegoxoxo/Portfolio](https://github.com/katlegoxoxo/Portfolio-Guide.git)
 
 
 
