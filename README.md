@@ -13,11 +13,35 @@ Outside of analytics, you'll usually find me watching football, learning new tec
 * Improving my skills in data engineering and cloud technologies
 * Expanding my portfolio with real-world datasets
 
-## Featured Project
+## Featured Projects
 
-### English Premier League Data Analytics Dashboard
+### [English Premier League Data Analytics Dashboard](https://github.com/katlegoxoxo/English-Premier-League-Data-Analytics-Dashboard)
 
-A complete data analytics project exploring the 2024/25 Premier League season using SQL, Python, Databricks, and Looker Studio. The project includes data cleaning, exploratory analysis, KPI development, and interactive dashboards that provide insights into team and player performance.
+An end-to-end data analytics project exploring the 2024/25 English Premier League season using SQL, Python, Databricks, and Looker Studio. The project includes data collection, cleaning, exploratory data analysis, KPI development, and interactive dashboards that provide insights into team and player performance.
+
+---
+
+### [Student Performance Data Analysis](https://github.com/katlegoxoxo/Student-Performance-Data-Analysis)
+
+An exploratory data analysis project examining student performance data to identify academic trends, evaluate data quality, generate descriptive statistics, and visualize key insights using Python and Jupyter Notebook.
+
+---
+
+### [Sales Data Analysis](https://github.com/katlegoxoxo/sales-data-analysis)
+
+A business analytics project focused on cleaning and analyzing sales data to uncover trends, calculate key performance indicators (KPIs), and create visualizations that support data-driven decision-making.
+
+---
+
+### [Personal Portfolio Website](https://github.com/katlegoxoxo/website-katlegoxx)
+
+A responsive portfolio website built with React, TypeScript, and Tailwind CSS to showcase my projects, technical skills, and professional journey.
+
+---
+
+**View my complete portfolio:**
+https://github.com/katlegoxoxo/Portfolio
+
 
 
 ## Tech Stack
