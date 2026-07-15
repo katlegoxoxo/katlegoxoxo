@@ -64,4 +64,4 @@ A responsive portfolio website built with React, TypeScript, and Tailwind CSS to
 * Machine Learning
 * Microsoft Fabric
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+> *"Without data, you're just another person with an opinion."* - W. Edwards Deming
